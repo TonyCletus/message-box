@@ -11,7 +11,7 @@ A SIMPLE AND NEAT CONTACT US BOX OR A MESSAGE BOX.....
   </li>
 </ul>
 <p>
-<h3>DEMO PICTURES</h3>
+<h3>DEMO PIX</h3>
 <ul>
   <ol><img src="demo_pix/demo_pix2.jpg"></ol>
 </ul>
