@@ -6,14 +6,14 @@ A SIMPLE AND NEAT CONTACT US BOX OR A MESSAGE BOX.....
   <li>Clone or Download The Project.</li>
   <li>Start your server... (XAMMP or WAMMP) Recommended for development purposes</li>
   <li>localhost/project folder/index.php 
-    <p>Note: Message sending via offline server won't be successful.<br>
+    <p>Note: Message sending via offline server or locally won't be successful.<br>
     It has to be deployed to the internet and live before mail function works. (Strictly for those using XAMMP or WAMMP)</p>
   </li>
 </ul>
 <p>
 <h3>DEMO PICTURES</h3>
 <ul>
-  <li><img src="demo_pix1.jpg"></li>
-  <li><img src="demo_pix3.jpg"></li>
-  <li><img src="demo_pix2.jpg"></li>
+  <ol style="width: 50%"><img src="demo_pix1.jpg"></ol>
+  <ol><img src="demo_pix3.jpg"></ol>
+  <ol><img src="demo_pix2.jpg"></ol>
 </ul>
